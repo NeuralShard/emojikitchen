@@ -122,4 +122,5 @@ bun run generate
 EmojiKitchen is a creative open-source project. We welcome you to contribute, share ideas, and report issues on GitHub. Star and Fork the project to help make this platform more exciting! 🌍
 
 👉 GitHub: https://github.com/NeuralShard/emojikitchen.git
+
 👉 Powered by: [emojikitchen.net](https://emojikitchen.net/)
